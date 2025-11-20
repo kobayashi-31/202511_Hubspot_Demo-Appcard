@@ -2,9 +2,9 @@
   "uid": "card-Demo-Appcard",
   "type": "card",
   "config": {
-    "name": "New Card",
+    "name": "デモカード",
     "location": "crm.record.tab",
-    "entrypoint": "/app/cards/NewCard.tsx",
+    "entrypoint": "/app/cards/DemoCard.tsx",
     "objectTypes": [
       "contacts"
     ]
